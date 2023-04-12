@@ -1,16 +1,7 @@
 # app_pizza_bakapp
 
-A new Flutter project.
+[![pizza-1.jpg](https://i.postimg.cc/RhHMcGD4/pizza-1.jpg)](https://postimg.cc/rRqXTGTP)
 
-## Getting Started
+[![pizza-2.jpg](https://i.postimg.cc/RCkt2Y91/pizza-2.jpg)](https://postimg.cc/t7z7x2s7)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![pizza-3.jpg](https://i.postimg.cc/qBhnbrfM/pizza-3.jpg)](https://postimg.cc/Thxp1ZYZ)
